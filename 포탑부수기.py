@@ -1,3 +1,4 @@
+#삼성기출
 from collections import deque
 
 n,m,k = map(int,input().split()) #입력
