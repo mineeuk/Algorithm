@@ -1,4 +1,4 @@
-[문제](https://www.acmicpc.net/problem/10870)
+![문제](https://www.acmicpc.net/problem/10870)
 
 def fib(num):
     if num == 0:
